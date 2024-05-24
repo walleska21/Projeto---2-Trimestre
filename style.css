@@ -1,18 +1,18 @@
 h1 {
-    color: #8B0000;
+    color: red;
 }
 h2{
-    color: #8B0000;
+    color: blue;
 }
 h3{
-    color: #8B0000;
+    color: blue;
 }
 h4 {
-    color: #8B0000;
+    color: blue;
 }
 
 body {
-    background-color: #ADD8E6;
+    background-color:darkslategrey;
 
     text-align: center;
 }
@@ -63,7 +63,6 @@ nav a:hover {
 footer {
     background-color: white;
 }
-
 .estudante-icone{
     width: 24px;
     padding: 4px 8px;
